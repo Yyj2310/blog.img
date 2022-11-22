@@ -1,2 +1,2 @@
-# blog.img
-img from picgo 
+# img
+img from https://draw.io
